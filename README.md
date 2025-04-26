@@ -1,8 +1,10 @@
-Portfolio Website 🌟
+**Portfolio Website 🌟**
+
+
 This is my personal portfolio website, built to showcase my skills, projects, and experiences.
 It is fully responsive, cleanly designed, and highlights my work in web development and software engineering.
 
-✨ Features
+**✨ Features**
 About Me Section
 
 Skills Section
@@ -17,7 +19,7 @@ Built with HTML, CSS, JavaScript
 
 Animations on Scroll (AOS Library)
 
-🚀 Technologies Used
+**🚀 Technologies Used**
 HTML5
 
 CSS3
@@ -28,7 +30,7 @@ AOS (Animate On Scroll Library)
 
 FontAwesome Icons
 
-📂 Folder Structure
+**📂 Folder Structure**
 bash
 Copy
 Edit
