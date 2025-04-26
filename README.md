@@ -43,9 +43,9 @@ Edit
 📞 Contact
 If you'd like to connect with me, feel free to use the Contact Form on the site, or reach out via:
 
-LinkedIn
+LinkedIn: https://www.linkedin.com/in/uditnow/
 
-GitHub
+
 
 📸 Live Preview
 Coming soon...
